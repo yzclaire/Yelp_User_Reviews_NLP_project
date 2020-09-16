@@ -1,4 +1,4 @@
-# Yelp_Review_NLP_project
+# [Yelp_Review_NLP_project](https://yzclaire.github.io/Yelp_User_Reviews_NLP_project/) 
 Text Analysis and Prediction with Neural Network
 
 In this notebook, I built four text classification neural network models to predict yelp users' ratings based on their text reviews.
